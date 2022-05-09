@@ -1,8 +1,7 @@
 # clicker-ahk
-Automated clicker that clicks every x minutes at pos. x and y
+<h1>Automated clicker that clicks a selected location on a selected minute interval</h1>
 
-
-For this application to run, please <a href= "https://www.autohotkey.com/">download</a> AHK (Auto Hot Key)
+For this application to run, please <a href= "https://www.autohotkey.com/" target="_blank" >download</a> AHK (Auto Hot Key)
 
 Clone this repository to your computer, then double click the .exe file to run.
 
