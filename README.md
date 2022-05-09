@@ -13,6 +13,8 @@ A second window will open asking you to click in the location you would like the
 
 Clicking anywhere on your screen will dismiss the window, and the application will now click in your selected location.
 
+To kill the script, locate the green AHK icon on the right side of your taskbar, right click, then click exit. If for whatever reason you add a click interval that is clicking to fast for you to navigate to that spot, the keybind Ctrl+Esc will also kill the script.
+
 NOTE: If your setup includes multiple monitors, the click will occur on whatever screen your mouse is on. The click location records the (x,y) 
 pixel location of the mouse. If your displays are different pixel sizes, the mouse will click in the same pixel location on each screen, meaning the pointer location
 relative to the screen will be different between the displays
